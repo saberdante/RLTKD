@@ -28,4 +28,3 @@ python setup.py develop
 ```
 python tools/train.py --cfg configs/cifar100/RLTKD/res56_res20.yaml
 ```
-# RLTKD
